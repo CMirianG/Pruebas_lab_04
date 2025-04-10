@@ -1,0 +1,36 @@
+﻿@model lab04_Cuadrosg.Models.clsJuego
+@{
+    ViewBag.Title = "Generar";
+}
+
+<div class="text-center">
+    <h2>Juego de Tragamonedas</h2>
+
+    @using (Html.BeginForm("Generar", "Juego", FormMethod.Post))
+    {
+        <p>
+            @Html.LabelFor(model => model.numero1, "Tragamonedas")
+        </p>
+
+        <button type="submit" class="btn btn-primary">Jugar</button>
+        <br /><br />
+        if (Session["i"] == null)
+        {
+            Session["i"] = 1;
+            <h3>? - ? - ?</h3>
+        }
+
+        else
+
+        {
+            int contador = Convert.ToInt32(Session["i"]);
+            contador++;
+            Session["i"] = contador;
+        }
+
+        <h3>@Model.numero1 - @Model.numero2 - @Model.numero3</h3>
+
+        <br /><br />
+
+    }
+</div>

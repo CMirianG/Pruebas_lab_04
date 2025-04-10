@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\lab04_Cuadrosg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EDE41D-69FA-44D3-83A7-EB00058DF7B6}|lab04_Cuadrosg\\lab04_Cuadrosg.csproj|c:\\users\\hp\\source\\repos\\lab04_cuadrosg\\lab04_cuadrosg\\views\\encuestas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1EDE41D-69FA-44D3-83A7-EB00058DF7B6}|lab04_Cuadrosg\\lab04_Cuadrosg.csproj|solutionrelative:lab04_cuadrosg\\views\\encuestas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EDE41D-69FA-44D3-83A7-EB00058DF7B6}|lab04_Cuadrosg\\lab04_Cuadrosg.csproj|c:\\users\\hp\\source\\repos\\lab04_cuadrosg\\lab04_cuadrosg\\controllers\\encuestascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1EDE41D-69FA-44D3-83A7-EB00058DF7B6}|lab04_Cuadrosg\\lab04_Cuadrosg.csproj|solutionrelative:lab04_cuadrosg\\controllers\\encuestascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EDE41D-69FA-44D3-83A7-EB00058DF7B6}|lab04_Cuadrosg\\lab04_Cuadrosg.csproj|c:\\users\\hp\\source\\repos\\lab04_cuadrosg\\lab04_cuadrosg\\models\\clsalternativa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1EDE41D-69FA-44D3-83A7-EB00058DF7B6}|lab04_Cuadrosg\\lab04_Cuadrosg.csproj|solutionrelative:lab04_cuadrosg\\models\\clsalternativa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EDE41D-69FA-44D3-83A7-EB00058DF7B6}|lab04_Cuadrosg\\lab04_Cuadrosg.csproj|c:\\users\\hp\\source\\repos\\lab04_cuadrosg\\lab04_cuadrosg\\models\\clsencuestas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1EDE41D-69FA-44D3-83A7-EB00058DF7B6}|lab04_Cuadrosg\\lab04_Cuadrosg.csproj|solutionrelative:lab04_cuadrosg\\models\\clsencuestas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EDE41D-69FA-44D3-83A7-EB00058DF7B6}|lab04_Cuadrosg\\lab04_Cuadrosg.csproj|c:\\users\\hp\\source\\repos\\lab04_cuadrosg\\lab04_cuadrosg\\views\\encuesta\\realizarencuesta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1EDE41D-69FA-44D3-83A7-EB00058DF7B6}|lab04_Cuadrosg\\lab04_Cuadrosg.csproj|solutionrelative:lab04_cuadrosg\\views\\encuesta\\realizarencuesta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EDE41D-69FA-44D3-83A7-EB00058DF7B6}|lab04_Cuadrosg\\lab04_Cuadrosg.csproj|c:\\users\\hp\\source\\repos\\lab04_cuadrosg\\lab04_cuadrosg\\views\\juego\\generar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1EDE41D-69FA-44D3-83A7-EB00058DF7B6}|lab04_Cuadrosg\\lab04_Cuadrosg.csproj|solutionrelative:lab04_cuadrosg\\views\\juego\\generar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EDE41D-69FA-44D3-83A7-EB00058DF7B6}|lab04_Cuadrosg\\lab04_Cuadrosg.csproj|c:\\users\\hp\\source\\repos\\lab04_cuadrosg\\lab04_cuadrosg\\controllers\\juegocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1EDE41D-69FA-44D3-83A7-EB00058DF7B6}|lab04_Cuadrosg\\lab04_Cuadrosg.csproj|solutionrelative:lab04_cuadrosg\\controllers\\juegocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EDE41D-69FA-44D3-83A7-EB00058DF7B6}|lab04_Cuadrosg\\lab04_Cuadrosg.csproj|c:\\users\\hp\\source\\repos\\lab04_cuadrosg\\lab04_cuadrosg\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1EDE41D-69FA-44D3-83A7-EB00058DF7B6}|lab04_Cuadrosg\\lab04_Cuadrosg.csproj|solutionrelative:lab04_cuadrosg\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EDE41D-69FA-44D3-83A7-EB00058DF7B6}|lab04_Cuadrosg\\lab04_Cuadrosg.csproj|c:\\users\\hp\\source\\repos\\lab04_cuadrosg\\lab04_cuadrosg\\controllers\\encuestacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1EDE41D-69FA-44D3-83A7-EB00058DF7B6}|lab04_Cuadrosg\\lab04_Cuadrosg.csproj|solutionrelative:lab04_cuadrosg\\controllers\\encuestacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EDE41D-69FA-44D3-83A7-EB00058DF7B6}|lab04_Cuadrosg\\lab04_Cuadrosg.csproj|c:\\users\\hp\\source\\repos\\lab04_cuadrosg\\lab04_cuadrosg\\models\\clsencuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1EDE41D-69FA-44D3-83A7-EB00058DF7B6}|lab04_Cuadrosg\\lab04_Cuadrosg.csproj|solutionrelative:lab04_cuadrosg\\models\\clsencuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EDE41D-69FA-44D3-83A7-EB00058DF7B6}|lab04_Cuadrosg\\lab04_Cuadrosg.csproj|c:\\users\\hp\\source\\repos\\lab04_cuadrosg\\lab04_cuadrosg\\models\\clsjuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1EDE41D-69FA-44D3-83A7-EB00058DF7B6}|lab04_Cuadrosg\\lab04_Cuadrosg.csproj|solutionrelative:lab04_cuadrosg\\models\\clsjuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EDE41D-69FA-44D3-83A7-EB00058DF7B6}|lab04_Cuadrosg\\lab04_Cuadrosg.csproj|c:\\users\\hp\\source\\repos\\lab04_cuadrosg\\lab04_cuadrosg\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1EDE41D-69FA-44D3-83A7-EB00058DF7B6}|lab04_Cuadrosg\\lab04_Cuadrosg.csproj|solutionrelative:lab04_cuadrosg\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EDE41D-69FA-44D3-83A7-EB00058DF7B6}|lab04_Cuadrosg\\lab04_Cuadrosg.csproj|c:\\users\\hp\\source\\repos\\lab04_cuadrosg\\lab04_cuadrosg\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1EDE41D-69FA-44D3-83A7-EB00058DF7B6}|lab04_Cuadrosg\\lab04_Cuadrosg.csproj|solutionrelative:lab04_cuadrosg\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EDE41D-69FA-44D3-83A7-EB00058DF7B6}|lab04_Cuadrosg\\lab04_Cuadrosg.csproj|c:\\users\\hp\\source\\repos\\lab04_cuadrosg\\lab04_cuadrosg\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1EDE41D-69FA-44D3-83A7-EB00058DF7B6}|lab04_Cuadrosg\\lab04_Cuadrosg.csproj|solutionrelative:lab04_cuadrosg\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\lab04_Cuadrosg\\lab04_Cuadrosg\\Views\\Encuestas\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab04_Cuadrosg\\Views\\Encuestas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\lab04_Cuadrosg\\lab04_Cuadrosg\\Views\\Encuestas\\Index.cshtml",
+              "RelativeToolTip": "lab04_Cuadrosg\\Views\\Encuestas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T00:33:44.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EncuestasController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\lab04_Cuadrosg\\lab04_Cuadrosg\\Controllers\\EncuestasController.cs",
+              "RelativeDocumentMoniker": "lab04_Cuadrosg\\Controllers\\EncuestasController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\lab04_Cuadrosg\\lab04_Cuadrosg\\Controllers\\EncuestasController.cs",
+              "RelativeToolTip": "lab04_Cuadrosg\\Controllers\\EncuestasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T00:12:53.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsEncuestas.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\lab04_Cuadrosg\\lab04_Cuadrosg\\Models\\clsEncuestas.cs",
+              "RelativeDocumentMoniker": "lab04_Cuadrosg\\Models\\clsEncuestas.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\lab04_Cuadrosg\\lab04_Cuadrosg\\Models\\clsEncuestas.cs",
+              "RelativeToolTip": "lab04_Cuadrosg\\Models\\clsEncuestas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T00:11:34.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsAlternativa.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\lab04_Cuadrosg\\lab04_Cuadrosg\\Models\\clsAlternativa.cs",
+              "RelativeDocumentMoniker": "lab04_Cuadrosg\\Models\\clsAlternativa.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\lab04_Cuadrosg\\lab04_Cuadrosg\\Models\\clsAlternativa.cs",
+              "RelativeToolTip": "lab04_Cuadrosg\\Models\\clsAlternativa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T00:09:34.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RealizarEncuesta.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\lab04_Cuadrosg\\lab04_Cuadrosg\\Views\\Encuesta\\RealizarEncuesta.cshtml",
+              "RelativeDocumentMoniker": "lab04_Cuadrosg\\Views\\Encuesta\\RealizarEncuesta.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\lab04_Cuadrosg\\lab04_Cuadrosg\\Views\\Encuesta\\RealizarEncuesta.cshtml",
+              "RelativeToolTip": "lab04_Cuadrosg\\Views\\Encuesta\\RealizarEncuesta.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T23:59:54.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EncuestaController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\lab04_Cuadrosg\\lab04_Cuadrosg\\Controllers\\EncuestaController.cs",
+              "RelativeDocumentMoniker": "lab04_Cuadrosg\\Controllers\\EncuestaController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\lab04_Cuadrosg\\lab04_Cuadrosg\\Controllers\\EncuestaController.cs",
+              "RelativeToolTip": "lab04_Cuadrosg\\Controllers\\EncuestaController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAIUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T22:59:29.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsEncuesta.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\lab04_Cuadrosg\\lab04_Cuadrosg\\Models\\clsEncuesta.cs",
+              "RelativeDocumentMoniker": "lab04_Cuadrosg\\Models\\clsEncuesta.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\lab04_Cuadrosg\\lab04_Cuadrosg\\Models\\clsEncuesta.cs",
+              "RelativeToolTip": "lab04_Cuadrosg\\Models\\clsEncuesta.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T22:55:53.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Generar.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\lab04_Cuadrosg\\lab04_Cuadrosg\\Views\\Juego\\Generar.cshtml",
+              "RelativeDocumentMoniker": "lab04_Cuadrosg\\Views\\Juego\\Generar.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\lab04_Cuadrosg\\lab04_Cuadrosg\\Views\\Juego\\Generar.cshtml",
+              "RelativeToolTip": "lab04_Cuadrosg\\Views\\Juego\\Generar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T22:37:28.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JuegoController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\lab04_Cuadrosg\\lab04_Cuadrosg\\Controllers\\JuegoController.cs",
+              "RelativeDocumentMoniker": "lab04_Cuadrosg\\Controllers\\JuegoController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\lab04_Cuadrosg\\lab04_Cuadrosg\\Controllers\\JuegoController.cs",
+              "RelativeToolTip": "lab04_Cuadrosg\\Controllers\\JuegoController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T22:29:34.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsJuego.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\lab04_Cuadrosg\\lab04_Cuadrosg\\Models\\clsJuego.cs",
+              "RelativeDocumentMoniker": "lab04_Cuadrosg\\Models\\clsJuego.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\lab04_Cuadrosg\\lab04_Cuadrosg\\Models\\clsJuego.cs",
+              "RelativeToolTip": "lab04_Cuadrosg\\Models\\clsJuego.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T22:28:14.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\lab04_Cuadrosg\\lab04_Cuadrosg\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab04_Cuadrosg\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\lab04_Cuadrosg\\lab04_Cuadrosg\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "lab04_Cuadrosg\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T22:27:01.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\lab04_Cuadrosg\\lab04_Cuadrosg\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "lab04_Cuadrosg\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\lab04_Cuadrosg\\lab04_Cuadrosg\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "lab04_Cuadrosg\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T22:26:49.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Viewstart.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\lab04_Cuadrosg\\lab04_Cuadrosg\\Views\\_Viewstart.cshtml",
+              "RelativeDocumentMoniker": "lab04_Cuadrosg\\Views\\_Viewstart.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\lab04_Cuadrosg\\lab04_Cuadrosg\\Views\\_Viewstart.cshtml",
+              "RelativeToolTip": "lab04_Cuadrosg\\Views\\_Viewstart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T22:26:16.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\lab04_Cuadrosg\\lab04_Cuadrosg\\Views\\Shared\\Layout.cshtml",
+              "RelativeDocumentMoniker": "lab04_Cuadrosg\\Views\\Shared\\Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\lab04_Cuadrosg\\lab04_Cuadrosg\\Views\\Shared\\Layout.cshtml",
+              "RelativeToolTip": "lab04_Cuadrosg\\Views\\Shared\\Layout.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAACoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T22:25:17.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+﻿@model lab04_Cuadrosg.Models.clsEncuesta
+@{
+    ViewBag.Title = "RealizarEncuesta";
+}
+
+<div class="text-center">
+
+    <h2>Encuesta de cursos favoritos</h2>
+    <br />
+    @using (Html.BeginForm("RealizarEncuesta", "Encuesta", FormMethod.Post))
+    {
+        <p>Seleccion el @Request["Curso"]</p>
+
+        <table class="table" style="width: 80%; margin: 1em auto;">
+            <tr>
+                <th>CURSOS</th>
+                <th>VOTOS</th>
+                <th>PORCENTAJES</th>
+                <th>GRÁFICO</th>
+            </tr>
+
+            <tr>
+                <td>
+                    <label>@Html.RadioButton("Curso", "Curso 1") @ViewBag.alternativa1</label>
+                </td>
+                <td>@Session["cv1"]</td>
+                <td>@Session["pocentajeC1"]%</td>
+                <td>
+                    <progress class="progress is-primary" id="pb1" value="@Session["vp1"]" max="100.00"></progress>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label>@Html.RadioButton("Curso", "Curso 2") @ViewBag.alternativa2</label>
+                </td>
+                <td>@Session["cv2"]</td>
+                <td>@Session["pocentajeC2"]%</td>
+                <td>
+                    <progress class="progress is-primary" id="pb2" value="@Session["vp2"]" max="100.00"></progress>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label>@Html.RadioButton("Curso", "Curso 3") @ViewData["alternativa3"]</label>
+                </td>
+                <td>@Session["cv3"]</td>
+                <td>@Session["pocentajeC3"]%</td>
+                <td>
+                    <progress class="progress is-primary" id="pb3" value="@Session["vp3"]" max="100.00"></progress>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label>@Html.RadioButton("Curso", "Curso 4") @ViewData["alternativa4"]</label>
+                </td>
+                <td>@Session["cv4"]</td>
+                <td>@Session["pocentajeC4"]%</td>
+                <td>
+                    <progress class="progress is-primary" id="pb4" value="@Session["vp4"]" max="100.00"></progress>
+                </td>
+            </tr>
+
+            <tr>
+                <td>Total:</td>
+                <td>@Session["totalvotos"]</td>
+                <td>@Session["totalPorcentaje"]</td>
+                <td>&nbsp;</td>
+            </tr>
+
+        </table>
+
+        <br />
+        <button type="submit" class="btn btn-primary">Votar</button>
+    }
+</div>

@@ -1,0 +1,68 @@
+﻿@model lab04_Cuadrosg.Models.clsEncuestas
+@{
+    ViewBag.Title = "Index";
+}
+
+<div>
+    <h4>Encuesta</h4>
+    <br />
+    <form id="form1" method="post">
+        <div class="auto-style1">
+            <dl class="dl-horizontal">
+                <dt>
+                    @Html.DisplayNameFor(model => model.Titulo)
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.Titulo)
+                </dd>
+            </dl>
+
+            <br />
+
+            <table class="table table-bordered table-responsive table-hover table-striped">
+                <tr>
+                    <th>Alternativa</th>
+                    <th>Votos</th>
+                    <th>Porcentaje</th>
+                    <th>Grafico</th>
+                </tr>
+
+                @for (int i = 0; i < Model.Alternativa.Count; i++)
+                {
+                    <tr>
+                        <td>
+                            <input type="radio" name="index" value="@(i)" />
+                            @(Model.Alternativa[i].Titulo)
+                        </td>
+                        <td>
+                            @(Model.Alternativa[i].Cantidad)
+                        </td>
+                        <td>
+                            @(Model.Alternativa[i].Porcentaje) %
+                        </td>
+                        <td>
+                            <progress value="@Model.Alternativa[i].Porcentaje" max="100"></progress>
+                        </td>
+
+                    </tr>
+                }
+
+                <tr>
+                    <td><strong>Total:</strong></td>
+                    <td><strong>@Model.Alternativa.Sum(a => a.Cantidad)</strong></td>
+                    <td>100%</td>
+                    <td></td>
+                </tr>
+
+                <!-- Fila con el botón de votar -->
+                <tr>
+                    <td colspan="4" class="text-center">
+                        <button type="submit" class="btn btn-primary">Votar</button>
+                    </td>
+                </tr>
+
+            </table>
+
+        </div>
+    </form>
+</div>
